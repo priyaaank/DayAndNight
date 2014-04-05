@@ -18,7 +18,7 @@
         /* @group NIGHT MODE */
         
         function checkNightMode() {
-            if (getCookie('nightMode') == '') { nightMode(); }
+            if (getCookie('nightMode') == '') { setCookie('nightMode', true, 9999999); }
             if (getCookie('nightMode') == 'true') {
                 document.body.classList.toggle('night')
             }
