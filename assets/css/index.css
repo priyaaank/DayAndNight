@@ -2,8 +2,8 @@
 .site-cover figcaption {bottom:20px;color:rgb(255,255,255);font-size:14px;position:absolute;right:20px}
 .outer-wrapper {margin-left:33%}
 
-.site-header {font-size:24px;padding:40px;color:#444;height:100%;background-position:center center;
-    background-size:cover;box-shadow:inset -2px 0 16px rgba(0,0,0,.2);text-shadow: 0 0 5px #fff}
+.site-header {font-size:24px;padding:40px;color:#FFF;height:100%;background-position:center center;
+    background-size:cover;}
 .site-header p:last-child {margin-bottom:0}
 
 .site-logo {background-size:contain;border-radius:25px;display:inline-block;height:40px;margin-right:10px;position:relative;top:8px;width:40px;box-shadow:0 0 10px #fff}
